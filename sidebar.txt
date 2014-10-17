@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tca:home|Door43 (tca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tca|d43-tca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tca/archive/master.zip|d43-tca.zip]]
+
+**Recent Changes**
+{{changes>ns = tca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tca|Ethnologue data]]
+
